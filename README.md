@@ -30,3 +30,14 @@ const posts = [{
 		fullName: 'Mandy2000',
 	}]
 }];
+
+# example of one post:
+<div>
+    <h1>I am first post text</h1>
+    <h2>likes: 2</h1>
+    <h2>dislikes: 2</h1>
+    <ul>
+      <li>[name of author of comment]: I am first comment</li>
+      <li>[name of author of comment]: I am second comment</li>
+    </ul>
+  </div>
